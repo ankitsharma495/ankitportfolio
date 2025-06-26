@@ -5,7 +5,7 @@ export const projects = [
     description: "Real-time multiplayer chess game built with Socket.io, Express, and JavaScript.",
     image: "/chess.png",
     technologies: ["JavaScript", "Socket.io", "Express", "Tailwind CSS"],
-    liveUrl: "https://chess-arena.vercel.app/",
+    // liveUrl: "https://chess-arena.vercel.app/",
     githubUrl: "https://github.com/ankitsharma495/chessgame"
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     description: "A productivity-enhancing code utility app built with react.js , codemirror and SCSS.",
     image: "/codepro.png",
     technologies: ["React", "CodeMirror", "SCSS"],
-    liveUrl: "https://ankitsharma495.github.io/CodePro/",
+    liveUrl: "code-pro-seven.vercel.app",
     githubUrl: "https://github.com/ankitsharma495/CodePro"
   },
     {
@@ -23,7 +23,7 @@ export const projects = [
     description: "Whiteboard drawing app similar to Excalidraw using React and Konva.",
     image: "/sketch.png",
     technologies: ["React", "Konva", "Tailwind CSS"],
-    liveUrl: "https://sketcher-clone.vercel.app/",
+    liveUrl: "sketchx-zeta.vercel.app",
     githubUrl: "https://github.com/ankitsharma495/sketcher"
   },
   // {
@@ -42,7 +42,7 @@ export const projects = [
     description: "Simple task management tool to add, complete, and delete tasks.",
     image: "task.png",
     technologies: ["JavaScript", "HTML", "CSS"],
-    liveUrl: "https://ankitsharma495.github.io/taskmanager/",
+    // liveUrl: "https://ankitsharma495.github.io/taskmanager/",
     githubUrl: "https://github.com/ankitsharma495/taskmanager"
   },
   {
@@ -56,7 +56,7 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Simple Weather App",
+    title: "Weather App",
     description: "Weather forecast app using OpenWeatherMap API.",
     image: "/image.png",
     technologies: ["JavaScript", "CSS", "API"],
