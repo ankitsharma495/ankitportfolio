@@ -13,9 +13,13 @@ const About = () => {
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <div className="w-64 h-64 bg-gradient-to-br from-blue-400 to-purple-500 rounded-full mx-auto lg:mx-0 flex items-center justify-center text-white text-6xl font-bold">
-              MH
-            </div>
+            <div className="w-80 h-80 bg-gradient-to-br from-blue-400 to-purple-500 rounded-full mx-auto lg:mx-0 flex items-center justify-center">
+  <img
+    src="/mypic.png"
+    alt=""
+    className="w-full h-full object-cover rounded-full"
+  />
+</div>
             
             <div className="space-y-4">
               <div className="flex items-center text-gray-600">
