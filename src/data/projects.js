@@ -5,7 +5,7 @@ export const projects = [
     description: "Real-time multiplayer chess game built with Socket.io, Express, and JavaScript.",
     image: "/chess.png",
     technologies: ["JavaScript", "Socket.io", "Express", "Tailwind CSS"],
-    // liveUrl: "https://chess-arena.vercel.app/",
+    liveUrl: "https://chessgame-1-1t21.onrender.com/",
     githubUrl: "https://github.com/ankitsharma495/chessgame"
   },
   {
@@ -36,15 +36,8 @@ export const projects = [
   //   githubUrl: "https://github.com/ankitsharma495/role-based-access-control",
     
   // },
-  {
-    id: 5,
-    title: "Task Manager",
-    description: "Simple task management tool to add, complete, and delete tasks.",
-    image: "task.png",
-    technologies: ["JavaScript", "HTML", "CSS"],
-    // liveUrl: "https://ankitsharma495.github.io/taskmanager/",
-    githubUrl: "https://github.com/ankitsharma495/taskmanager"
-  },
+  
+ 
   {
     id: 8,
     title: "News App",
@@ -62,6 +55,14 @@ export const projects = [
     technologies: ["JavaScript", "CSS", "API"],
     liveUrl: "https://ankitsharma495.github.io/simple-weather-app/",
     githubUrl: "https://github.com/ankitsharma495/simple-weather-app"
+  },
+  {   id: 5,
+    title: "Task Manager",
+    description: "Simple task management tool to add, complete, and delete tasks.",
+    image: "task.png",
+    technologies: ["JavaScript", "HTML", "CSS"],
+    // liveUrl: "https://ankitsharma495.github.io/taskmanager/",
+    githubUrl: "https://github.com/ankitsharma495/taskmanager"
   },
 
   
