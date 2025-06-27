@@ -14,7 +14,7 @@ export const projects = [
     description: "A productivity-enhancing code utility app built with react.js , codemirror and SCSS.",
     image: "/codepro.png",
     technologies: ["React", "CodeMirror", "SCSS"],
-    liveUrl: "code-pro-seven.vercel.app",
+    liveUrl: "https://code-pro-seven.vercel.app/",
     githubUrl: "https://github.com/ankitsharma495/CodePro"
   },
     {
